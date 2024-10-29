@@ -1,0 +1,28 @@
+{
+  "name": "spineAnimationCoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "prod": "tsx ./src/index.ts",
+    "dev": "tsx watch ./src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@esotericsoftware/spine-canvaskit": "^4.2.61",
+    "@types/fluent-ffmpeg": "^2.1.27",
+    "@types/node": "^22.8.2",
+    "@types/pngjs": "^6.0.5",
+    "axios": "^1.7.7",
+    "ffmpeg-stream": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "pngjs": "^7.0.0",
+    "sharp": "^0.33.5",
+    "socks-proxy-agent": "^8.0.4",
+    "tsx": "^4.19.2"
+  }
+}
