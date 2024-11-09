@@ -1,0 +1,6 @@
+sheep_hat.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+base
+  size: 300, 300

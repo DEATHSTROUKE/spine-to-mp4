@@ -14,6 +14,8 @@
   },
   "dependencies": {
     "@esotericsoftware/spine-canvaskit": "^4.2.61",
+    "@esotericsoftware/spine-webgl": "^4.2.63",
+    "@napi-rs/canvas": "^0.1.60",
     "@types/fluent-ffmpeg": "^2.1.27",
     "@types/node": "^22.8.2",
     "@types/pngjs": "^6.0.5",

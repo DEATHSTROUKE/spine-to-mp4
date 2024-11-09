@@ -1,9 +1,7 @@
-import { ffbinary } from "./handlers/ffbinary";
-import { generateImage } from "./handlers/generateImage";
+import { generateImage } from './generateImage'
 
 async function main() {
-  const buffers = await generateImage();
-  await ffbinary(buffers);
+  await generateImage()
 }
 
-main();
+main()

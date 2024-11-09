@@ -1,0 +1,397 @@
+axolotl.png
+size: 1790,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collar_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eyes_stuff_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+monocle_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tail_end_stuff_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tail_stuff_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+legendary/body
+  rotate: true
+  xy: 1237, 303
+  size: 327, 157
+  orig: 329, 159
+  offset: 1, 1
+  index: -1
+legendary/ears
+  rotate: true
+  xy: 222, 713
+  size: 571, 216
+  orig: 573, 218
+  offset: 1, 1
+  index: -1
+legendary/eyes
+  rotate: false
+  xy: 1429, 632
+  size: 328, 83
+  orig: 330, 85
+  offset: 1, 1
+  index: -1
+legendary/head
+  rotate: true
+  xy: 938, 874
+  size: 410, 246
+  orig: 412, 248
+  offset: 1, 1
+  index: -1
+legendary/leg_b_r
+  rotate: false
+  xy: 1613, 359
+  size: 95, 89
+  orig: 97, 91
+  offset: 1, 1
+  index: -1
+legendary/leg_f_l
+  rotate: true
+  xy: 289, 22
+  size: 114, 93
+  orig: 116, 95
+  offset: 1, 1
+  index: -1
+legendary/leg_f_r
+  rotate: false
+  xy: 1603, 86
+  size: 94, 89
+  orig: 96, 91
+  offset: 1, 1
+  index: -1
+legendary/tail
+  rotate: false
+  xy: 1483, 887
+  size: 295, 310
+  orig: 297, 312
+  offset: 1, 1
+  index: -1
+mif/body
+  rotate: false
+  xy: 1100, 715
+  size: 327, 157
+  orig: 329, 159
+  offset: 1, 1
+  index: -1
+mif/ears
+  rotate: true
+  xy: 220, 138
+  size: 571, 216
+  orig: 573, 218
+  offset: 1, 1
+  index: -1
+mif/eyes
+  rotate: false
+  xy: 1429, 717
+  size: 328, 83
+  orig: 330, 85
+  offset: 1, 1
+  index: -1
+mif/head
+  rotate: true
+  xy: 656, 301
+  size: 410, 246
+  orig: 412, 248
+  offset: 1, 1
+  index: -1
+mif/leg_b_r
+  rotate: false
+  xy: 1613, 450
+  size: 95, 89
+  orig: 97, 91
+  offset: 1, 1
+  index: -1
+mif/leg_f_l
+  rotate: true
+  xy: 194, 22
+  size: 114, 93
+  orig: 116, 95
+  offset: 1, 1
+  index: -1
+mif/leg_f_r
+  rotate: true
+  xy: 1699, 172
+  size: 94, 89
+  orig: 96, 91
+  offset: 1, 1
+  index: -1
+mif/tail
+  rotate: false
+  xy: 1186, 887
+  size: 295, 310
+  orig: 297, 312
+  offset: 1, 1
+  index: -1
+mutant/body
+  rotate: true
+  xy: 1396, 303
+  size: 327, 157
+  orig: 327, 157
+  offset: 0, 0
+  index: -1
+mutant/ears
+  rotate: true
+  xy: 438, 140
+  size: 571, 216
+  orig: 571, 216
+  offset: 0, 0
+  index: -1
+mutant/eyes
+  rotate: true
+  xy: 1152, 302
+  size: 328, 83
+  orig: 328, 83
+  offset: 0, 0
+  index: -1
+mutant/head
+  rotate: true
+  xy: 904, 301
+  size: 410, 246
+  orig: 410, 246
+  offset: 0, 0
+  index: -1
+mutant/leg_b_r
+  rotate: false
+  xy: 1613, 268
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+mutant/leg_f_l
+  rotate: true
+  xy: 384, 22
+  size: 114, 93
+  orig: 114, 93
+  offset: 0, 0
+  index: -1
+mutant/leg_f_r
+  rotate: true
+  xy: 1699, 76
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+mutant/tail
+  rotate: true
+  xy: 1291, 6
+  size: 295, 310
+  orig: 295, 310
+  offset: 0, 0
+  index: -1
+normal/body
+  rotate: false
+  xy: 769, 713
+  size: 329, 159
+  orig: 329, 159
+  offset: 0, 0
+  index: -1
+normal/ears
+  rotate: true
+  xy: 2, 711
+  size: 573, 218
+  orig: 573, 218
+  offset: 0, 0
+  index: -1
+normal/eyes
+  rotate: false
+  xy: 1429, 1199
+  size: 330, 85
+  orig: 330, 85
+  offset: 0, 0
+  index: -1
+normal/eyes_closed
+  rotate: true
+  xy: 1555, 304
+  size: 326, 56
+  orig: 326, 56
+  offset: 0, 0
+  index: -1
+normal/head
+  rotate: true
+  xy: 440, 872
+  size: 412, 248
+  orig: 412, 248
+  offset: 0, 0
+  index: -1
+normal/leg_b_r
+  rotate: true
+  xy: 479, 41
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1
+normal/leg_f_l
+  rotate: true
+  xy: 2, 20
+  size: 116, 95
+  orig: 116, 95
+  offset: 0, 0
+  index: -1
+normal/leg_f_r
+  rotate: true
+  xy: 572, 42
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+normal/mouth
+  rotate: false
+  xy: 2, 5
+  size: 97, 13
+  orig: 97, 13
+  offset: 0, 0
+  index: -1
+normal/tail
+  rotate: true
+  xy: 665, 2
+  size: 297, 312
+  orig: 297, 312
+  offset: 0, 0
+  index: -1
+rare/body
+  rotate: false
+  xy: 440, 713
+  size: 327, 157
+  orig: 329, 159
+  offset: 1, 1
+  index: -1
+rare/ears
+  rotate: true
+  xy: 2, 138
+  size: 571, 216
+  orig: 573, 218
+  offset: 1, 1
+  index: -1
+rare/eyes
+  rotate: false
+  xy: 1429, 802
+  size: 328, 83
+  orig: 330, 85
+  offset: 1, 1
+  index: -1
+rare/eyes_closed
+  rotate: true
+  xy: 1710, 306
+  size: 324, 54
+  orig: 326, 56
+  offset: 1, 1
+  index: -1
+legendary/eyes_closed
+  rotate: true
+  xy: 1710, 306
+  size: 324, 54
+  orig: 326, 56
+  offset: 1, 1
+  index: -1
+mif/eyes_closed
+  rotate: true
+  xy: 1710, 306
+  size: 324, 54
+  orig: 326, 56
+  offset: 1, 1
+  index: -1
+mutant/eyes_closed
+  rotate: true
+  xy: 1710, 306
+  size: 324, 54
+  orig: 324, 54
+  offset: 0, 0
+  index: -1
+rare/head
+  rotate: true
+  xy: 690, 874
+  size: 410, 246
+  orig: 412, 248
+  offset: 1, 1
+  index: -1
+rare/leg_b_r
+  rotate: false
+  xy: 1613, 541
+  size: 95, 89
+  orig: 97, 91
+  offset: 1, 1
+  index: -1
+rare/leg_f_l
+  rotate: true
+  xy: 99, 22
+  size: 114, 93
+  orig: 116, 95
+  offset: 1, 1
+  index: -1
+rare/leg_f_r
+  rotate: false
+  xy: 1603, 177
+  size: 94, 89
+  orig: 96, 91
+  offset: 1, 1
+  index: -1
+rare/mouth
+  rotate: false
+  xy: 101, 9
+  size: 95, 11
+  orig: 97, 13
+  offset: 1, 1
+  index: -1
+legendary/mouth
+  rotate: false
+  xy: 101, 9
+  size: 95, 11
+  orig: 97, 13
+  offset: 1, 1
+  index: -1
+mif/mouth
+  rotate: false
+  xy: 101, 9
+  size: 95, 11
+  orig: 97, 13
+  offset: 1, 1
+  index: -1
+mutant/mouth
+  rotate: false
+  xy: 101, 9
+  size: 95, 11
+  orig: 95, 11
+  offset: 0, 0
+  index: -1
+rare/tail
+  rotate: true
+  xy: 979, 4
+  size: 295, 310
+  orig: 297, 312
+  offset: 1, 1
+  index: -1

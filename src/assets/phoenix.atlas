@@ -1,0 +1,502 @@
+
+phoenix.png
+size: 2033,1979
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collar_base
+  rotate: false
+  xy: 2, 1976
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eyes_stuff_base
+  rotate: false
+  xy: 2, 1976
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_base
+  rotate: false
+  xy: 2, 1976
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+monocle_base
+  rotate: false
+  xy: 2, 1976
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tail_end_stuff_base
+  rotate: false
+  xy: 2, 1976
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tail_stuff_base
+  rotate: false
+  xy: 2, 1976
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+legendary/body
+  rotate: false
+  xy: 1301, 1332
+  size: 286, 185
+  orig: 286, 185
+  offset: 0, 0
+  index: -1
+legendary/eye_l
+  rotate: true
+  xy: 135, 1929
+  size: 48, 63
+  orig: 1000, 1000
+  offset: 324, 534
+  index: -1
+legendary/eye_r
+  rotate: false
+  xy: 464, 1903
+  size: 89, 74
+  orig: 1000, 1000
+  offset: 404, 518
+  index: -1
+legendary/feather_head
+  rotate: false
+  xy: 1476, 1099
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+legendary/feather_head_main
+  rotate: true
+  xy: 1201, 1520
+  size: 170, 266
+  orig: 171, 266
+  offset: 0, 0
+  index: -1
+legendary/head
+  rotate: true
+  xy: 1413, 771
+  size: 326, 345
+  orig: 327, 346
+  offset: 0, 0
+  index: -1
+legendary/leg_l
+  rotate: true
+  xy: 2, 1439
+  size: 174, 210
+  orig: 174, 210
+  offset: 0, 0
+  index: -1
+legendary/leg_r
+  rotate: true
+  xy: 725, 1721
+  size: 140, 249
+  orig: 141, 249
+  offset: 0, 0
+  index: -1
+legendary/mouth
+  rotate: false
+  xy: 1137, 1863
+  size: 158, 114
+  orig: 158, 114
+  offset: 0, 0
+  index: -1
+legendary/neck
+  rotate: true
+  xy: 1447, 425
+  size: 344, 373
+  orig: 344, 374
+  offset: 0, 1
+  index: -1
+legendary/tail_lenth_back
+  rotate: false
+  xy: 2, 1217
+  size: 192, 220
+  orig: 192, 221
+  offset: 0, 1
+  index: -1
+legendary/tail_lenth_front
+  rotate: false
+  xy: 2, 1615
+  size: 237, 144
+  orig: 237, 144
+  offset: 0, 0
+  index: -1
+legendary/tail_main
+  rotate: true
+  xy: 480, 896
+  size: 236, 237
+  orig: 236, 237
+  offset: 0, 0
+  index: -1
+legendary/wing_r_down
+  rotate: false
+  xy: 2, 1770
+  size: 219, 139
+  orig: 219, 139
+  offset: 0, 0
+  index: -1
+mif/body
+  rotate: false
+  xy: 1013, 1333
+  size: 286, 185
+  orig: 286, 185
+  offset: 0, 0
+  index: -1
+mif/eye_l
+  rotate: true
+  xy: 70, 1929
+  size: 48, 63
+  orig: 1000, 1000
+  offset: 324, 534
+  index: -1
+mif/eye_r
+  rotate: false
+  xy: 373, 1903
+  size: 89, 74
+  orig: 1000, 1000
+  offset: 404, 518
+  index: -1
+mif/feather_head
+  rotate: false
+  xy: 1129, 1109
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+mif/feather_head_main
+  rotate: true
+  xy: 721, 1548
+  size: 170, 266
+  orig: 171, 266
+  offset: 0, 0
+  index: -1
+mif/head
+  rotate: true
+  xy: 1066, 781
+  size: 326, 345
+  orig: 327, 346
+  offset: 0, 0
+  index: -1
+mif/leg_l
+  rotate: true
+  xy: 1737, 1516
+  size: 174, 210
+  orig: 174, 210
+  offset: 0, 0
+  index: -1
+mif/leg_r
+  rotate: true
+  xy: 474, 1721
+  size: 140, 249
+  orig: 141, 249
+  offset: 0, 0
+  index: -1
+mif/mouth
+  rotate: false
+  xy: 977, 1863
+  size: 158, 114
+  orig: 158, 114
+  offset: 0, 0
+  index: -1
+mif/neck
+  rotate: true
+  xy: 1072, 425
+  size: 344, 373
+  orig: 344, 374
+  offset: 0, 1
+  index: -1
+mif/tail_lenth_back
+  rotate: true
+  xy: 1811, 1322
+  size: 192, 220
+  orig: 192, 221
+  offset: 0, 1
+  index: -1
+mif/tail_lenth_front
+  rotate: false
+  xy: 1705, 1692
+  size: 237, 144
+  orig: 237, 144
+  offset: 0, 0
+  index: -1
+mif/tail_main
+  rotate: true
+  xy: 241, 896
+  size: 236, 237
+  orig: 236, 237
+  offset: 0, 0
+  index: -1
+mif/wing_r_down
+  rotate: false
+  xy: 1739, 1838
+  size: 219, 139
+  orig: 219, 139
+  offset: 0, 0
+  index: -1
+mif/wing_up_l
+  rotate: true
+  xy: 1104, 2
+  size: 421, 549
+  orig: 421, 549
+  offset: 0, 0
+  index: -1
+normal/body
+  rotate: false
+  xy: 437, 1361
+  size: 286, 185
+  orig: 286, 185
+  offset: 0, 0
+  index: -1
+normal/eye_l
+  rotate: true
+  xy: 200, 1911
+  size: 66, 80
+  orig: 1000, 1000
+  offset: 315, 523
+  index: -1
+normal/eye_r
+  rotate: false
+  xy: 555, 1891
+  size: 100, 86
+  orig: 1000, 1000
+  offset: 399, 512
+  index: -1
+normal/feather_head
+  rotate: false
+  xy: 435, 1134
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+normal/feather_head_main
+  rotate: true
+  xy: 1469, 1519
+  size: 171, 266
+  orig: 171, 266
+  offset: 0, 0
+  index: -1
+normal/head
+  rotate: true
+  xy: 2, 567
+  size: 327, 346
+  orig: 327, 346
+  offset: 0, 0
+  index: -1
+normal/leg_l
+  rotate: true
+  xy: 241, 1585
+  size: 174, 210
+  orig: 174, 210
+  offset: 0, 0
+  index: -1
+normal/leg_r
+  rotate: true
+  xy: 976, 1720
+  size: 141, 249
+  orig: 141, 249
+  offset: 0, 0
+  index: -1
+normal/mouth
+  rotate: false
+  xy: 657, 1863
+  size: 158, 114
+  orig: 158, 114
+  offset: 0, 0
+  index: -1
+normal/neck
+  rotate: true
+  xy: 696, 435
+  size: 344, 374
+  orig: 344, 374
+  offset: 0, 0
+  index: -1
+normal/tail_lenth_back
+  rotate: true
+  xy: 214, 1391
+  size: 192, 221
+  orig: 192, 221
+  offset: 0, 0
+  index: -1
+normal/tail_lenth_front
+  rotate: false
+  xy: 1227, 1692
+  size: 237, 144
+  orig: 237, 144
+  offset: 0, 0
+  index: -1
+normal/tail_main
+  rotate: true
+  xy: 196, 1153
+  size: 236, 237
+  orig: 236, 237
+  offset: 0, 0
+  index: -1
+normal/wing_r_down
+  rotate: false
+  xy: 1297, 1838
+  size: 219, 139
+  orig: 219, 139
+  offset: 0, 0
+  index: -1
+normal/wing_up_l
+  rotate: true
+  xy: 2, 98
+  size: 421, 549
+  orig: 421, 549
+  offset: 0, 0
+  index: -1
+rare/body
+  rotate: false
+  xy: 725, 1357
+  size: 286, 185
+  orig: 286, 185
+  offset: 0, 0
+  index: -1
+rare/eye_l
+  rotate: true
+  xy: 5, 1929
+  size: 48, 63
+  orig: 1000, 1000
+  offset: 324, 534
+  index: -1
+rare/eye_r
+  rotate: false
+  xy: 282, 1903
+  size: 89, 74
+  orig: 1000, 1000
+  offset: 404, 518
+  index: -1
+rare/feather_head
+  rotate: false
+  xy: 782, 1110
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+rare/feather_head_main
+  rotate: true
+  xy: 453, 1549
+  size: 170, 266
+  orig: 171, 266
+  offset: 0, 0
+  index: -1
+rare/head
+  rotate: true
+  xy: 719, 782
+  size: 326, 345
+  orig: 327, 346
+  offset: 0, 0
+  index: -1
+rare/leg_l
+  rotate: true
+  xy: 989, 1544
+  size: 174, 210
+  orig: 174, 210
+  offset: 0, 0
+  index: -1
+rare/leg_r
+  rotate: true
+  xy: 223, 1761
+  size: 140, 249
+  orig: 141, 249
+  offset: 0, 0
+  index: -1
+rare/mouth
+  rotate: false
+  xy: 817, 1863
+  size: 158, 114
+  orig: 158, 114
+  offset: 0, 0
+  index: -1
+rare/neck
+  rotate: false
+  xy: 350, 521
+  size: 344, 373
+  orig: 344, 374
+  offset: 0, 1
+  index: -1
+rare/tail_lenth_back
+  rotate: true
+  xy: 1589, 1322
+  size: 192, 220
+  orig: 192, 221
+  offset: 0, 1
+  index: -1
+rare/tail_lenth_front
+  rotate: false
+  xy: 1466, 1692
+  size: 237, 144
+  orig: 237, 144
+  offset: 0, 0
+  index: -1
+rare/tail_main
+  rotate: true
+  xy: 2, 915
+  size: 236, 237
+  orig: 236, 237
+  offset: 0, 0
+  index: -1
+rare/wing_r_down
+  rotate: false
+  xy: 1518, 1838
+  size: 219, 139
+  orig: 219, 139
+  offset: 0, 0
+  index: -1
+rare/wing_up_l
+  rotate: true
+  xy: 553, 2
+  size: 421, 549
+  orig: 421, 549
+  offset: 0, 0
+  index: -1
+
+phoenix2.png
+size: 976,1271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+legendary/wing_up_l
+  rotate: true
+  xy: 2, 848
+  size: 421, 549
+  orig: 421, 549
+  offset: 0, 0
+  index: -1
+legendary/wing_up_r
+  rotate: true
+  xy: 2, 2
+  size: 421, 549
+  orig: 421, 549
+  offset: 0, 0
+  index: -1
+mif/wing_up_r
+  rotate: false
+  xy: 553, 169
+  size: 421, 549
+  orig: 421, 549
+  offset: 0, 0
+  index: -1
+normal/wing_up_r
+  rotate: false
+  xy: 553, 720
+  size: 421, 549
+  orig: 421, 549
+  offset: 0, 0
+  index: -1
+rare/wing_up_r
+  rotate: true
+  xy: 2, 425
+  size: 421, 549
+  orig: 421, 549
+  offset: 0, 0
+  index: -1

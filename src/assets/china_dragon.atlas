@@ -1,0 +1,125 @@
+
+china_dragon.png
+size: 557,978
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 205, 25
+  size: 239, 198
+  orig: 239, 198
+  offset: 0, 0
+  index: -1
+collar_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eyes_stuff_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+monocle_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tail_end_stuff_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tail_stuff_base
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: false
+  xy: 436, 270
+  size: 118, 77
+  orig: 118, 77
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: false
+  xy: 405, 14
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 328, 274
+  size: 231, 106
+  orig: 231, 106
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 507
+  size: 411, 469
+  orig: 411, 469
+  offset: 0, 0
+  index: -1
+leg_b_r
+  rotate: false
+  xy: 436, 349
+  size: 106, 173
+  orig: 106, 173
+  offset: 0, 0
+  index: -1
+leg_f_l
+  rotate: false
+  xy: 405, 121
+  size: 116, 147
+  orig: 116, 147
+  offset: 0, 0
+  index: -1
+leg_f_r
+  rotate: false
+  xy: 415, 524
+  size: 124, 164
+  orig: 124, 164
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 415, 690
+  size: 286, 135
+  orig: 286, 135
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2, 5
+  size: 201, 259
+  orig: 201, 259
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 266
+  size: 324, 239
+  orig: 324, 239
+  offset: 0, 0
+  index: -1
